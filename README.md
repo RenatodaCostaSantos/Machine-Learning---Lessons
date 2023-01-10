@@ -1,2 +1,2 @@
 # Machine-Learning---Lessons
-Repository containing my machine learning lessons notes.
+Repository containing my machine-learning lesson notes.
