@@ -1,1 +1,1 @@
-This folder contains my lesson about supervised machine learning models.
+This folder contains my lesson notes about supervised machine-learning models.
